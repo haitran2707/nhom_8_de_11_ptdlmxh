@@ -155,7 +155,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn mplcursors
 ## 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git](https://github.com/haitran2707/nhom_8_de_11_ptdlmxh
+git clone https://github.com/haitran2707/nhom_8_de_11_ptdlmxh
 ```
 
 ## 2. Mở Jupyter Notebook
