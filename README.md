@@ -199,19 +199,6 @@ Status Interactions
 Link Interactions
 Beginning Of Interval
 ```
-
----
-
-# 🎯 Ứng dụng thực tế
-
-Có thể dùng cho:
-
-- Social Media Analytics
-- Marketing Dashboard
-- Facebook Content Strategy
-- Machine Learning Practice
-- Data Analysis Portfolio
-
 ---
 
 # 👨‍💻 Tác giả
