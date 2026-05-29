@@ -216,5 +216,5 @@ Có thể dùng cho:
 
 # 👨‍💻 Tác giả
 
-**Facebook Engagement Analysis Project**  
-Developed with Python & Machine Learning.
+Trần Văn Huỳnh 
+Trần Đỗ Minh Hải
